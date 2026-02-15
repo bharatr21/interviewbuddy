@@ -1,2 +1,2 @@
-# interview-buddy
+# Interview Buddy
 Interview Preparation Buddy
